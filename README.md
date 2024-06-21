@@ -4,13 +4,10 @@
 
 ![screenshot](https://user-images.githubusercontent.com/94898151/234441430-089a003f-cd0d-4d5f-9d23-905d0834f68f.jpg)
 
-
 ## Technologies :
 
 - React
 - Sass
-
-
 
 ## Installation :
 
@@ -23,7 +20,3 @@ Démarrer le serveur avec la commande `npm start`
 ```terminal
 git clone : https://github.com/MohaDjm/kasa.git
 ```
-
-
-
-
