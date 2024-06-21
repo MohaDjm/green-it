@@ -1,8 +1,9 @@
-# Formation Intégrateur Web - Projet 7
+# Green IT - 
 
-## 📎 Projet 7 : Kasa - Agence de location immobilière
+## 📎 En prenant en compte les bonnes pratiques que vous avez identifier pour améliorer les sites de vos concurrents, vous devez refaire une page par personne du site (ex : page d'accueil + page présentation maison + etc). Les pages doivent être liées entre elles. Utilisez HTML/CSS et du JS si vous pouvez 
+Bien entendu, faites dans la limite technique de ce que vous pouvez aujourd'hui, il y a déjà plein de choses simples à mettre en place : taille des images, accessbilité avec les balises alt, etc
+Un doc qui récapitule toutes les bonnes pratiques que je vais pouvoir retrouver dans votre code.
 
-![screenshot](https://user-images.githubusercontent.com/94898151/234441430-089a003f-cd0d-4d5f-9d23-905d0834f68f.jpg)
 
 ## Technologies :
 
